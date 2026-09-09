@@ -23,7 +23,7 @@ public class TodoController {
         map.put(idCounter, t1);
         idCounter++;
 
-        System.out.println("Εφτιαξα το todo!");
+        System.out.println("todo!");
         return t1;
     }
 
